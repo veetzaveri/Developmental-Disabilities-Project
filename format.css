@@ -1,0 +1,29 @@
+p {
+    font-family: Courier;
+    font-size: 20pt;
+    color: darkred;
+}
+
+h1 {
+    font-family: arial;
+    font-size: 30pt;
+    color: black;
+}
+
+ol {
+    font-family: Times New Roman;
+    font-size: 25pt;
+    color: mediumblue;
+}
+
+h2 {
+    font-family: arial;
+    font-size: 25pt;
+    color: red;
+}
+
+ul {
+    font-family: Times New Roman;
+    font-size: 25pt;
+    color: mediumblue;
+}
